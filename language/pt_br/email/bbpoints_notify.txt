@@ -1,0 +1,12 @@
+Assunto: BBpoints - "{FORUM_NAME}"
+
+Olá {USERNAME},
+
+Você recebeu este e-mail porque havia uma doação feita para o seu endereço de {POSTER}
+
+{TEXT}
+
+{U_FORUM}
+
+
+{EMAIL_SIG}
