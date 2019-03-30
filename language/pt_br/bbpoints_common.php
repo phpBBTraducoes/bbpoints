@@ -2,10 +2,10 @@
 /**
 *
 * BBpoints extension for the phpBB Forum Software package.
-*
+* Brazilian Portuguese translation by eunaumtenhoid [2019][ver 1.2.1] (https://github.com/phpBBTraducoes)
 * @copyright (c) 2015 SiteSplat All rights reserved
 * @license Proprietary
-* Brazilian Portuguese translation by eunaumtenhoid (c) 2019 [ver 1.2.1] (https://github.com/phpBBTraducoes)
+* 
 */
 
 /**
